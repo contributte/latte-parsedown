@@ -41,7 +41,7 @@ class ParsedownAdapter extends Object
      */
     public function processLine($line)
     {
-        $this->onProcess($text, $this);
+        $this->onProcess($line, $this);
         return $this->parsedown->line($line);
     }
 }
