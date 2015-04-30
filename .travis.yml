@@ -12,7 +12,7 @@ matrix:
 #        - hhvm-nightly
 
 script:
-    - vendor/bin/tester -i
+    - vendor/bin/tester -i -p php
     - vendor/bin/tester tests/Parsedown -s -p php
 
 after_failure:
