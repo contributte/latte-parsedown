@@ -15,7 +15,7 @@ class ParsedownExtension extends CompilerExtension
 
     /** @var array */
     private $defaults = [
-        'helper' => NULL,
+        'helper' => 'parsedown',
     ];
 
     public function loadConfiguration()
