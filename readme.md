@@ -4,7 +4,7 @@
 
 -----
 
-[![Build Status](https://travis-ci.org/minetro/latte-parsedown.svg?branch=flat-square)](https://travis-ci.org/minetro/latte-parsedown)
+[![Build Status](https://img.shields.io/travis/minetro/latte-parsedown.svg?branch=flat-square)](https://travis-ci.org/minetro/latte-parsedown)
 [![Downloads total](https://img.shields.io/packagist/dt/minetro/latte-parsedown.svg?style=flat-square)](https://packagist.org/packages/minetro/latte-parsedown)
 [![Latest stable](https://img.shields.io/packagist/v/minetro/latte-parsedown.svg?style=flat-square)](https://packagist.org/packages/minetro/latte-parsedown)
 [![HHVM Status](https://img.shields.io/hhvm/minetro/latte-parsedown.svg?style=flat-square)](http://hhvm.h4cc.de/package/minetro/latte-parsedown)
