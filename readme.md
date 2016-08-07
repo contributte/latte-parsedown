@@ -16,7 +16,7 @@
 ## Install
 
 ```sh
-$ composer require minetro/latte-parsedown:~1.0.0
+$ composer require minetro/latte-parsedown
 ```
 
 ## Usage
