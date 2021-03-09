@@ -15,15 +15,15 @@
 
 ## Install
 
-```sh
-$ composer require minetro/latte-parsedown
+```bash
+composer require minetro/latte-parsedown
 ```
 
 ## Usage
 
 ### Register in config file 
 
-```neon
+```yaml
 extensions:
     parsedown: Minetro\Parsedown\DI\ParsedownExtension
 
