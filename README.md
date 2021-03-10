@@ -23,10 +23,10 @@ composer require minetro/latte-parsedown
 
 ### Register in config file 
 
-```yaml
+```neon
 extensions:
-    parsedown: Minetro\Parsedown\DI\ParsedownExtension
+	parsedown: Minetro\Parsedown\DI\ParsedownExtension
 
 parsedown:
-    helper: parsedown # Name of the helper in Latte
+	helper: parsedown # Name of the helper in Latte
 ```
