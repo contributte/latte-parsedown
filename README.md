@@ -15,8 +15,8 @@
 
 ## Install
 
-```sh
-$ composer require minetro/latte-parsedown
+```bash
+composer require minetro/latte-parsedown
 ```
 
 ## Usage
@@ -25,8 +25,8 @@ $ composer require minetro/latte-parsedown
 
 ```neon
 extensions:
-    parsedown: Minetro\Parsedown\DI\ParsedownExtension
+	parsedown: Minetro\Parsedown\DI\ParsedownExtension
 
 parsedown:
-    helper: parsedown # Name of the helper in Latte
+	helper: parsedown # Name of the helper in Latte
 ```
