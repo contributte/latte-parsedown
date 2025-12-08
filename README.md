@@ -15,7 +15,7 @@
 | :warning: | This project is no longer being maintained. Please use [contributte/latteparsedown-extra](https://github.com/contributte/latteparsedown-extra).
 |---|---|
 
-| Composer | [`minetro/latte-parsedown`](https://packagist.org/minetro/latte-parsedown) |
+| Composer | [`minetro/latte-parsedown`](https://packagist.org/packages/minetro/latte-parsedown) |
 |---| --- |
 | Version | ![](https://badgen.net/packagist/v/minetro/latte-parsedown) |
 | PHP | ![](https://badgen.net/packagist/php/minetro/latte-parsedown) |
