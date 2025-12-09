@@ -12,18 +12,18 @@
 
 ## Disclaimer
 
-| :warning: | This project is no longer being maintained. Please use [contributte/latteparsedown-extra](https://github.com/contributte/latteparsedown-extra).
+| :warning: | This project is no longer being maintained. Please use [contributte/latteparsedown-extra](https://github.com/contributte/latteparsedown-extra).|
 |---|---|
 
 | Composer | [`minetro/latte-parsedown`](https://packagist.org/packages/minetro/latte-parsedown) |
-|---| --- |
+|---|---|
 | Version | ![](https://badgen.net/packagist/v/minetro/latte-parsedown) |
 | PHP | ![](https://badgen.net/packagist/php/minetro/latte-parsedown) |
-| License | ![](https://badgen.net/github/license/minetro/latte-parsedown) |
+| License | ![](https://badgen.net/github/license/contributte/latte-parsedown) |
 
 ## Usage
 
-### Register in config filw
+### Register in config file
 
 ```neon
 extensions:
@@ -33,10 +33,9 @@ parsedown:
 	helper: parsedown # Name of the helper in Latte
 ```
 
+## Development
 
-### Development
-
-This package was maintain by these authors.
+This package was maintained by these authors.
 
 <a href="https://github.com/f3l1x">
   <img width="80" height="80" src="https://avatars2.githubusercontent.com/u/538058?v=3&s=80">
@@ -45,4 +44,4 @@ This package was maintain by these authors.
 -----
 
 Consider to [support](https://contributte.org/partners.html) **contributte** development team.
-Also thank you for being used this package.
+Also thank you for using this package.
